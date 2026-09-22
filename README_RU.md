@@ -337,8 +337,8 @@ Contribution: 12 500 000 000
 **⚡ Подключай свой Worker → получай диапазон → выполняй вычисления → увеличивай свой вычислительный вклад.**
 
 ## Добро пожаловать в Distributed Recovery Pool.
-**https://t.me/brute_force_gpu
-https://t.me/Hash_Pool**
+ - **https://t.me/brute_force_gpu**
+ - **https://t.me/Hash_Pool**
 
 ---
 
@@ -471,8 +471,8 @@ Status: ✓ Synchronized
 **Подключитесь к пулу → получите задачу → отключите интернет → выполняйте вычисления локально → сохраните результат → подключитесь позже → синхронизируйте результат через Telegram.**
 Максимум автономности. Минимум сетевого взаимодействия.
 ## Добро пожаловать в Distributed Recovery Pool.
-**https://t.me/brute_force_gpu
-https://t.me/Hash_Pool**
+ - **https://t.me/brute_force_gpu**
+ - **https://t.me/Hash_Pool**
 
 ---
 

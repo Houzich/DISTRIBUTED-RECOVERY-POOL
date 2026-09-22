@@ -338,8 +338,8 @@ Thus, participants are rewarded not just for being connected, but for the real v
 
 
 ## Welcome to Distributed Recovery Pool.
-**https://t.me/brute_force_gpu
-https://t.me/Hash_Pool**
+ - **https://t.me/brute_force_gpu**
+ - **https://t.me/Hash_Pool**
 
 ---
 # 🔒 OFFLINE MODE
@@ -475,8 +475,8 @@ Internet is only needed for synchronization — computations themselves can be p
 Maximum autonomy. Minimum network interaction.
 
 ## Welcome to Distributed Recovery Pool.
-**https://t.me/brute_force_gpu
-https://t.me/Hash_Pool**
+ - **https://t.me/brute_force_gpu**
+ - **https://t.me/Hash_Pool**
 
 ---
 
