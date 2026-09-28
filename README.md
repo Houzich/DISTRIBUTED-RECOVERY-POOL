@@ -459,7 +459,7 @@ If needed, the participant can provide required data directly in a message to th
 After synchronization, the pool receives information about ranges that were already processed.
 
 
-🛡 WHY OFFLINE MODE?
+**🛡 WHY OFFLINE MODE?**
 
 It is especially useful for participants who:
 - work on machines without constant internet access;
@@ -480,4 +480,46 @@ Maximum autonomy. Minimum network interaction.
 
 ---
 
+
+ ### 🔬 MD5 ROOM — RESEARCH TASK
+We have already started using chosen-prefix collision research in the MD5 room.
+Now room participants are working not only on ordinary brute-force searches, but also on a research task related to a known weakness of MD5 — collision resistance.
+
+#### 🎯 Goal
+Find two different messages for which: ***MD5(Message A) = MD5(Message B)***
+While the messages themselves are different: ***Message A ≠ Message B***
+
+In a chosen-prefix collision, both prefixes are predetermined: ***Prefix A ≠ Prefix B***
+```
+Prefix A + Suffix A
+Prefix B + Suffix B
+        ↓
+     MD5 COLLISION
+```
+
+#### ⚡ The task is distributed among pool participants
+Each Worker receives its own part of the computational workload.
+The room allows participants to track:
+
+* 👥 number of participants
+* 🖥 active Workers
+* ⚡ total computing speed
+* 📊 research progress
+* 📦 processed ranges
+* 🎯 discovered collisions
+
+🏆 If a collision is found, the result undergoes additional verification:
+MD5(Message A) = MD5(Message B)
+
+#### ✅ COLLISION VERIFIED
+This is not a search for the original MD5 value.
+It is a completely different task — constructing different inputs that produce the same MD5 hash.
+
+#### 🔬 The MD5 Room is already live.
+Contribute your computing resources and participate in research into the cryptographic properties of MD5.
+🏠 Room: MD5
+
+## Welcome to Distributed Recovery Pool.
+* **https://t.me/brute_force_gpu**
+* **https://t.me/Hash_Pool**
 
