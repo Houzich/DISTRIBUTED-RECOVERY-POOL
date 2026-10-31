@@ -1,0 +1,17 @@
+{
+  "Window": {
+    "Theme": "Light",
+    "Language": "en-US"
+  },
+  "GPU": {
+    "Grid": 1024,
+    "Block": 256,
+    "DeviceIndex": 0,
+    "Mode": 2,
+    "Room": 0,
+    "Task": "Ranlux",
+    "RangeStart": "0x0",
+    "RangeEnd": "0x100",
+    "FolderTables": ""
+  }
+}
